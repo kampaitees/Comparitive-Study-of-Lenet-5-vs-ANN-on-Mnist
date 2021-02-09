@@ -445,6 +445,9 @@ plt.ylim(0.97, 1)
 plt.title('Comparison of Accuracy, Recall, Precision, F1 Score of Lenet-5 and ANN', fontsize=14)
 plt.show()
 ```
+**Output**
+
+<center><img src='Images/9.png'></center><br>
 
 From the above plot we can see that whether it is Accuracy or Precision or Recall or F1 score, Lenet-5 outperform ANN in all metrics
 and also have less number of training paramters and is higly efficient & fast to train.
